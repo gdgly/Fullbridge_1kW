@@ -1,0 +1,59 @@
+** Drc report for /home/namcho/Electronics/KiCAD/Projects/ElectricalVehicleBatCharger/ElectricalVehicleBatCharger.kicad_pcb **
+** Created on 2016-08-30 02:21:35 **
+
+** Found 17 DRC errors **
+ErrType(19): Pad near pad
+    @ (232,766 mm,143,595 mm): Pad 1 on F.Cu, Non-copper of D19
+    @ (232,766 mm,145,693 mm): Pad 2 on F.Cu, Non-copper of D19
+ErrType(19): Pad near pad
+    @ (232,766 mm,148,660 mm): Pad 2 on F.Cu, Non-copper of D18
+    @ (232,766 mm,150,758 mm): Pad 1 on F.Cu, Non-copper of D18
+ErrType(19): Pad near pad
+    @ (234,474 mm,109,107 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C95
+    @ (234,474 mm,111,607 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C95
+ErrType(19): Pad near pad
+    @ (234,474 mm,117,807 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C96
+    @ (234,474 mm,120,307 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C96
+ErrType(19): Pad near pad
+    @ (234,474 mm,126,107 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C70
+    @ (234,474 mm,128,607 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C70
+ErrType(19): Pad near pad
+    @ (234,574 mm,134,207 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C97
+    @ (234,574 mm,136,707 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C97
+ErrType(19): Pad near pad
+    @ (242,074 mm,109,107 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C101
+    @ (242,074 mm,111,607 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C101
+ErrType(19): Pad near pad
+    @ (242,074 mm,117,807 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C100
+    @ (242,074 mm,120,307 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C100
+ErrType(19): Pad near pad
+    @ (242,074 mm,126,207 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C98
+    @ (242,074 mm,128,707 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C98
+ErrType(19): Pad near pad
+    @ (242,074 mm,134,207 mm): Pad 2 on F.Cu, B.Cu, Internal, Non-copper of C99
+    @ (242,074 mm,136,707 mm): Pad 1 on F.Cu, B.Cu, Internal, Non-copper of C99
+ErrType(19): Pad near pad
+    @ (242,918 mm,146,143 mm): Pad 1 on F.Cu, Non-copper of R101
+    @ (245,418 mm,146,143 mm): Pad 2 on F.Cu, Non-copper of R102
+ErrType(19): Pad near pad
+    @ (242,918 mm,148,243 mm): Pad 1 on F.Cu, Non-copper of R99
+    @ (245,418 mm,148,243 mm): Pad 2 on F.Cu, Non-copper of R100
+ErrType(19): Pad near pad
+    @ (251,231 mm,107,484 mm): Pad 2 on F.Cu, Non-copper of U9
+    @ (252,501 mm,107,484 mm): Pad 3 on F.Cu, Non-copper of U9
+ErrType(19): Pad near pad
+    @ (258,126 mm,79,857 mm): Pad 1 on F.Cu, Non-copper of R38
+    @ (260,626 mm,79,857 mm): Pad 1 on F.Cu, Non-copper of R43
+ErrType(4): Track near pad
+    @ (252,501 mm,107,484 mm): Track 0,250 mm, net [GNDREF] (22) on layer F.Cu, length: 1,270 mm
+    @ (251,231 mm,107,484 mm): Pad 2 on F.Cu, Non-copper of U9
+ErrType(4): Track near pad
+    @ (184,066 mm,130,609 mm): Track 5,000 mm, net [/TR_9] (102) on layer F.Cu, length: 7,705 mm
+    @ (184,066 mm,125,509 mm): Pad 10 on F.Cu, B.Cu, Internal, Non-copper of T1
+ErrType(4): Track near pad
+    @ (190,816 mm,100,009 mm): Track 5,000 mm, net [/TR_15] (103) on layer F.Cu, length: 6,750 mm
+    @ (184,066 mm,94,909 mm): Pad 16 on F.Cu, B.Cu, Internal, Non-copper of T1
+
+** Found 0 unconnected pads **
+
+** End of Report **
